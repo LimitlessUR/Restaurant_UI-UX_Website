@@ -1,7 +1,9 @@
 Fantastic lesson in UI/UX design 
+
 I used:
 
-Fundamental CSS properties flex & grid
+Fundamental CSS properties flex & grid, React functional components
+
 
 # Getting Started with Create React App
 
