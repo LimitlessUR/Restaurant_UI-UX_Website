@@ -1,6 +1,5 @@
 Fantastic lesson in UI/UX design 
 
-Features used:
 
 `Information on Material-ui`
 
