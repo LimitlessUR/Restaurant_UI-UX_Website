@@ -1,9 +1,10 @@
 Fantastic lesson in UI/UX design 
 
 Figma: 
+
 https://www.figma.com/
 
-`Information on Material-ui`
+Information on Material-ui:
 
 Link: https://mui.com/material-ui/
 
