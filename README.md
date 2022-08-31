@@ -1,6 +1,8 @@
 Fantastic lesson in UI/UX design 
 
-Visit Live Site Here: 
+Visit Live Site Here: https://master.d1qddam9popti2.amplifyapp.com/
+
+Deployed on AWS Amplify 
 
 Figma: 
 
