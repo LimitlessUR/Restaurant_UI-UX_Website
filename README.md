@@ -1,5 +1,10 @@
 Fantastic lesson in UI/UX design 
 
+### What is UI / UX? 
+
+Info on UI / UX:
+
+
 Visit Live Site Here: https://master.d1qddam9popti2.amplifyapp.com/
 
 Deployed on AWS Amplify 
