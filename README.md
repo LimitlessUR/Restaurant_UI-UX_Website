@@ -4,7 +4,7 @@ Fantastic lesson in UI/UX design
 
 Info on UI / UX: *[Site Link](https://masterinfotech.com/blog/what-is-ui-ux-design/#:~:text=Today%20UI%2FUX%20design%2C%20which%20is%20an%20abbreviation%20of,just%20what%20it%20looks%20like%20and%20feels%20like.)
 
-Visit Live Site Here: https://master.d1qddam9popti2.amplifyapp.com/
+Visit Live Site Here: [My Portfolio](https://master.d1qddam9popti2.amplifyapp.com/)
 
 Deployed on AWS Amplify 
 
