@@ -1,6 +1,6 @@
 Fantastic lesson in UI/UX design 
 
-During this project I was introduced to the fundementals of UI/UX design, 
+During this project I was introduced to the fundementals of UI/UX design, React file and folder structure for a highly aesthetic website, and how to form media queries for satisfactory responsiveness covering almost all devices
 
 ### What is UI / UX? 
 
