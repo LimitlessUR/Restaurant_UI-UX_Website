@@ -1,5 +1,7 @@
 Fantastic lesson in UI/UX design 
 
+During this project I was introduced to the fundementals of UI/UX design, 
+
 ### What is UI / UX? 
 
 Info on UI / UX: [UI/UX](https://masterinfotech.com/blog/what-is-ui-ux-design/#:~:text=Today%20UI%2FUX%20design%2C%20which%20is%20an%20abbreviation%20of,just%20what%20it%20looks%20like%20and%20feels%20like.)
